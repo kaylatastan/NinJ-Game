@@ -1,0 +1,15 @@
+C:\Users\kayla\source\repos\Ninj .Net\obj\Release\Ninj .Net.csproj.AssemblyReference.cache
+C:\Users\kayla\source\repos\Ninj .Net\obj\Release\Ninj .Net.csproj.SuggestedBindingRedirects.cache
+C:\Users\kayla\source\repos\Ninj .Net\obj\Release\Ninj.Net.Form1.resources
+C:\Users\kayla\source\repos\Ninj .Net\obj\Release\Ninj .Net.csproj.GenerateResource.cache
+C:\Users\kayla\source\repos\Ninj .Net\obj\Release\Ninj .Net.csproj.CoreCompileInputs.cache
+C:\Users\kayla\source\repos\Ninj .Net\bin\Release\Ninj.Net.exe.config
+C:\Users\kayla\source\repos\Ninj .Net\bin\Release\Ninj.Net.exe.manifest
+C:\Users\kayla\source\repos\Ninj .Net\bin\Release\Ninj.Net.application
+C:\Users\kayla\source\repos\Ninj .Net\bin\Release\Ninj.Net.exe
+C:\Users\kayla\source\repos\Ninj .Net\bin\Release\Ninj.Net.pdb
+C:\Users\kayla\source\repos\Ninj .Net\obj\Release\Ninj.Net.Properties.Resources.resources
+C:\Users\kayla\source\repos\Ninj .Net\obj\Release\Ninj.Net.exe.manifest
+C:\Users\kayla\source\repos\Ninj .Net\obj\Release\Ninj.Net.application
+C:\Users\kayla\source\repos\Ninj .Net\obj\Release\Ninj.Net.exe
+C:\Users\kayla\source\repos\Ninj .Net\obj\Release\Ninj.Net.pdb
